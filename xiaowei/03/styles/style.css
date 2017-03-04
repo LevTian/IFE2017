@@ -1,0 +1,72 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+div#all
+{
+	min-height: 450px;
+	min-width: 800px;
+	margin: 20px;
+	padding: 20px;
+	border: 1px solid #999;
+	background-color: #eee;
+	float: auto;
+}
+
+div#log
+{
+	width: 160px;
+	height: auto;
+	padding: 20px;
+	border: 1px solid #999;
+	background-color: #fff;
+	float: left;
+}
+
+.img
+{
+	width: 80px;
+	height: 80px;
+	margin: 0px;
+}
+
+#log p
+{
+	float: right;
+	margin: 0px;
+}
+
+#photos
+{
+	width: 122px;
+	padding-bottom: 20px;
+	border: 1px solid #999;
+	background-color: #fff;
+	float: right;
+	//position: absolute;
+	//right: 40px;
+	//top: 40px;
+}
+
+.iimg
+{
+	width: 80px;
+	height: 80px;
+	margin: 20px 20px 0 20px;
+}
+
+#content
+{
+	margin-left:220px;
+	margin-right:140px;
+	padding: 20px;
+	border: 1px solid #999;
+	background-color: #fff;
+	float:auto;
+	//position: absolute;
+	//left: 240px;
+	//right: 160px;
+	//top: 20px;
+}
